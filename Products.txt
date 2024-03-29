@@ -1,0 +1,13 @@
+112900;Orange Juice Bottles;Juice;3;400;JuiceComp;0;0;0/0/0
+112901;Strawberry Juice Bottles;Juice;3;400;JuiceComp;1;1;20/1/2023
+112902;Jacket;Clothes;3;400;ClothesComp;0;0;0/0/0
+112903;Onions;Vegetables;3;400;FoodComp;0;0;0/0/0
+112904;Potatoes;Vegetables;3;400;FoodComp;1;1;20/1/2023
+112905;Cheddar;Cheese;3;400;FoodComp;1;1;20/1/2023
+112906;Feta;Cheese;3;400;FoodComp;1;1;20/1/2023
+112907;Apples;Fruits;3;400;FoodComp;1;1;20/1/2023
+112908;Melon;Fruits;3;400;FoodComp;1;1;20/1/2023
+112909;Chicken;Meat;3;400;FoodComp;0;0;0/0/0
+112910;Hot dogs;Meat;3;400;FoodComp;1;1;20/1/2023
+112911;Aluminum foil;Kitchen;3;400;KitchenComp;1;1;20/1/2023
+112912;Napkins;Kitchen;3;400;KitchenComp;1;1;20/1/2023

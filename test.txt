@@ -1,0 +1,68 @@
+User ID: 113900
+Name: 113900
+Date of Birth: 113900
+Role: Shopper
+Active: 1
+Active: {112902: 0, 112901: 0}
+Basket: 0
+
+User ID: 113901
+Name: 113901
+Date of Birth: 113901
+Role: Shopper
+Active: 1
+Active: {112903: 5, 112904: 2}
+Basket: 0
+
+User ID: 113902
+Name: 113902
+Date of Birth: 113902
+Role: Shopper
+Active: 1
+Active: {112902: 10, 112904: 1}
+Basket: 0
+
+User ID: 113903
+Name: 113903
+Date of Birth: 113903
+Role: Shopper
+Active: 1
+Active: {112903: 10, 112904: 5, 112906: 22}
+Basket: 0
+
+User ID: 113904
+Name: 113904
+Date of Birth: 113904
+Role: Shopper
+Active: 1
+Active: {112907: 10, 112908: 22}
+Basket: 1
+
+User ID: 113905
+Name: 113905
+Date of Birth: 113905
+Role: Shopper
+Active: 1
+Active: {112907: 10, 112906: 3, 112901: 10}
+Basket: 1
+
+User ID: 113906
+Name: 113906
+Date of Birth: 113906
+Role: Shopper
+Active: 1
+Active: {112903: 10}
+Basket: 1
+
+User ID: 120020
+Name: 120020
+Date of Birth: 120020
+Role: Admin
+Active: 1
+
+User ID: 120141
+Name: 120141
+Date of Birth: 120141
+Role: Admin
+Active: 1
+

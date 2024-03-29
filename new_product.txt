@@ -1,0 +1,130 @@
+Product ID: 112900
+Name: Orange Juice Bottles
+Category: Juice
+Price: 3
+Inventory: 400
+Supplier: JuiceComp
+Has an offer: 0
+Offer Price: 0
+Valid Until: 0/0/0
+
+Product ID: 112901
+Name: Strawberry Juice Bottles
+Category: Juice
+Price: 3
+Inventory: 400
+Supplier: JuiceComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112902
+Name: Jacket
+Category: Clothes
+Price: 3
+Inventory: 400
+Supplier: ClothesComp
+Has an offer: 0
+Offer Price: 0
+Valid Until: 0/0/0
+
+Product ID: 112903
+Name: Onions
+Category: Vegetables
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 0
+Offer Price: 0
+Valid Until: 0/0/0
+
+Product ID: 112904
+Name: Potatoes
+Category: Vegetables
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112905
+Name: Cheddar
+Category: Cheese
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112906
+Name: Feta
+Category: Cheese
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112907
+Name: Apples
+Category: Fruits
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112908
+Name: Melon
+Category: Fruits
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112909
+Name: Chicken
+Category: Meat
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 0
+Offer Price: 0
+Valid Until: 0/0/0
+
+Product ID: 112910
+Name: Hot dogs
+Category: Meat
+Price: 3
+Inventory: 400
+Supplier: FoodComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112911
+Name: Aluminum foil
+Category: Kitchen
+Price: 3
+Inventory: 400
+Supplier: KitchenComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
+Product ID: 112912
+Name: Napkins
+Category: Kitchen
+Price: 3
+Inventory: 400
+Supplier: KitchenComp
+Has an offer: 1
+Offer Price: 1
+Valid Until: 20/01/2023
+
